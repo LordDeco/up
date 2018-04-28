@@ -1,0 +1,9 @@
+
+Plugin version '0.1.316' is now available. To update, run: bx plugin update container-registry -r Bluemix
+Getting quotas and usage for the current month, for account 'Banco de Credito E Inversiones'...
+
+QUOTA          LIMIT       USED   
+Pull traffic   Unlimited   417 GB   
+Storage        80 GB       63 GB   
+
+OK
